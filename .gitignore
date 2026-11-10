@@ -1,0 +1,8 @@
+# Build output
+bin/
+classes/
+docs/doc/
+*.class
+
+# Editor / OS files
+.DS_Store
